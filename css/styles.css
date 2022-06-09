@@ -11,6 +11,7 @@ body {
     color: aliceblue;
     font-family: "Angel-wish";
     font-size:xx-large;
+    text-align: center;
 
 }
 
@@ -27,3 +28,9 @@ h3{
     font-weight: lighter;
 }
 
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid darkred;
+}
