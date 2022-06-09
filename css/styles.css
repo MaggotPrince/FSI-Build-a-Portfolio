@@ -1,6 +1,6 @@
 @font-face {
-    font-family: Angel_wish;
-    src: url(Fonts/Angel_wish.ttf);
+    font-family: "Angel-wish";
+    src: url(css/Fonts/Angel_wish.ttf) format('truetype');
 }
 
 
@@ -9,7 +9,8 @@ body {
     background-color:indigo;
     background-image: linear-gradient(indigo,black);
     color: aliceblue;
-    font-family: Angel_wish;
+    font-family: "Angel-wish";
+    font-size: large;
 
 }
 
