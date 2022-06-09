@@ -13,6 +13,8 @@ body {
     font-size:xx-large;
     text-align: center;
 
+    cursor: url(./Cursor/John_Romero-removebg-preview.png), default;
+
 }
 
 h1{
@@ -34,3 +36,4 @@ img{
     margin-right: auto;
     border: solid darkred;
 }
+
